@@ -35,7 +35,7 @@
 | GND | GND |
 
 
-| Ultrasonic TOP   |Node MCU |
+| Active Buzzer  |Node MCU |
 |----------|:-------------:|
 | Gnd | Jump with lil BreadBoard TOP |
 | I/O | D0 |
