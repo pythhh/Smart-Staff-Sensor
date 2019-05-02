@@ -1,13 +1,22 @@
-# Smart-Staff-Sensor
-  บทนำจ้าบทนำบทนำ
+<img src="img/logo.png">
 
-## :page_with_curl: Our Poster!
+# :sound: What is Smart-Staff-Sensor ?
+  ```Smart-Staff-Sensor``` —— ไม้เท้าอัจฉริยะที่จะช่วยให้ผู้พิการทางการมองเห็นสามารถใช้ชีวิตประจำวันได้อย่างสะดวกสบาย และมีความปลอดภัยมากขึ้น
+ โดยภายในตัวไม้ของเรานั้นจะทำการติดเซนเซอร์ไว้โดยที่จะคอยตรวจจับวัตถุโดยรอบของตัวผู้ใช้ โดยจะส่งเสียงแจ้งเตือนเมื่อ
+ * เข้าใกล้วัตถุในระยะน้อยกว่า 50 เซนติเมตร ตามแนวพื้น
+ * เข้าใกล้วัตถุในระยะน้อยกว่า 150 เซนติเมตร ตามแนวขนานกับผู้ใช้
+
+## :video_camera: Poster & Video is Here!
 
 ![](img/poster.jpg)
 
-### Result
+#### Poster :camera: : 
+![](img/poster.jpg)
+
+#### Video :movie_camera:
+
 ![](img/vdo.png)
-  we will show you with youtube [Clip Here](https://youtu.be/hkm7TtCkdAs)
+ * We will show you with youtube [Clip Here](https://youtu.be/hkm7TtCkdAs)
   
 ## Parts of Smart-Staff-Sensor
   - [x] Node MCU V2 ESP8266
