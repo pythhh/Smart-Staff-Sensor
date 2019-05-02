@@ -3,7 +3,7 @@
 
 ### Result
 ![](img/vdo.png)
-  we will show you with website [Game for you](https://youtu.be/hkm7TtCkdAs)
+  we will show you with website [Clip Here](https://youtu.be/hkm7TtCkdAs)
 
 
 ## สมาชิกในทีม!
