@@ -43,7 +43,7 @@
 ## :video_camera: Poster & Video is Here!
 
 #### Poster :camera: : 
-![](img/posterprojectcompromalaewja-edit.pdf)
+![](img/posterprojectcompromalaewja-editeditedit.jpg)
 
 
 ### Video :movie_camera: :
