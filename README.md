@@ -8,12 +8,10 @@
 
 ## :video_camera: Poster & Video is Here!
 
-![](img/poster.jpg)
-
 #### Poster :camera: : 
 ![](img/poster.jpg)
 
-#### Video :movie_camera:
+#### Video :movie_camera: :
 
 ![](img/vdo.png)
  * We will show you with youtube [Clip Here](https://youtu.be/hkm7TtCkdAs)
